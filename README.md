@@ -1,3 +1,4 @@
 # Demo 2
 Hey There
-h
+## Local Development
+open index.html
