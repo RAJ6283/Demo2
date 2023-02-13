@@ -1,4 +1,4 @@
 # Demo 2
-Hey There
+Hey There!
 ## Local Development
 open index.html
